@@ -6,7 +6,6 @@ applications and exploring frontend development.
 - 🔭 Currently building a Virtual CV portfolio site and a full-stack web app
 - 💻 Comfortable with JavaScript, HTML5, and CSS3
 - 🎯 Aiming toward a career as a Frontend Developer / Junior Web Developer
-- 📹 I also run BG Hub, creating short-form video content for YouTube Shorts and TikTok
 - 📫 Reach me at geoboipelo@gmail.com
 
 ### Featured Projects
